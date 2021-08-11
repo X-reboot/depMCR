@@ -1,0 +1,34 @@
+{
+    "thumbnails": [
+        {
+            "imgUrl": "https://firebasestorage.googleapis.com/v0/b/mcrhema.appspot.com/o/depMaman.jpg?alt=media&token=54d321d6-53bc-4418-b493-3497a2b95426",
+            "title": "Département des Femmes de la MCR",
+            "bodyText": "Creuset où les femmes se réunissent et sont enseignées en vue de devenir des femmes vertueuses et d'être une source d'influence pour Christ dans leurs foyers, leurs secteurs d'activités (Prov 31v10-31)"
+        },
+        {
+            "imgUrl": "https://firebasestorage.googleapis.com/v0/b/mcrhema.appspot.com/o/ibm.jpg?alt=media&token=47be8c54-295d-48de-bacd-41ffc41d0a6f",
+            "title": "Département des Hommes de la MCR",
+            "bodyText": "Conscients de leurs responsabilités en tant qu’époux, père et leader dans la société, ils se réunissent, s’entretiennent, prient et sont enseignés sur les manières de conduire leurs foyers et leur entreprises selon la volonté de Dieu afin d’être à l’image de Christ, l’époux et le leader parfait. (Ephésiens 5 :25) "
+        },
+        {
+            "imgUrl": "https://firebasestorage.googleapis.com/v0/b/mcrhema.appspot.com/o/jeune.jpg?alt=media&token=334cca0c-ca54-4c14-ac2e-d1b5dda828ee",
+            "title": "Département des Jeunes de la MCR",
+            "bodyText": "Des séries d'enseignement et divers programmes sont mis à la disposition des jeunes afin de faire d'eux de bons citoyens et pour qu'ils puissent accomplir leur destinée en Christ."
+        },
+        {
+            "imgUrl": "https://firebasestorage.googleapis.com/v0/b/mcrhema.appspot.com/o/enfant.jpg?alt=media&token=225e4230-9537-4ea4-b223-c3ef2e46ca05",
+            "title": "Département de l'Ecole de Dimanche",
+            "bodyText": "C'est la pépinière de Dieu. Ici, tous les enseignements et diverses animations amènent l'enfant à grandir dans la connaissance de Dieu afin qu'il demeure dans la saine doctrine de Jésus-Christ tout au long de sa vie. Instruis l'enfant selon la voie qu'il doit suivre; et quand il sera vieux, il ne s'en détourenera pas Proverbes 22 Verset 6"
+        },
+        {
+            "imgUrl": "https://firebasestorage.googleapis.com/v0/b/mcrhema.appspot.com/o/mission2.jpg?alt=media&token=41393216-59ac-4523-89c0-c213743dd199",
+            "title": "Département d'évangélisation",
+            "bodyText": " Constitué d’hommes et de femmes engagés à accomplir la vision de la MCR, ce département travaille au salut des âmes encore en perdition en prêchant la bonne nouvelle du Christ, en intercédant pour   les âmes et en les suivant jusqu&#39;à leur réel engagement à faire partie du corps de Christ. (Actes 1 :8) "
+        },
+        {
+            "imgUrl": "https://firebasestorage.googleapis.com/v0/b/mcrhema.appspot.com/o/galery1.jpg?alt=media&token=757d5617-186d-4de3-a322-368f7148c53c",
+            "title": "Département de l'Adoration et de Louange",
+            "bodyText": "Ce département a pour mission de conduire le peuple de Dieu à bénéficier de la présence de Dieu à chaque culte par des chants et cantiques inspirés par le Saint Esprit pour la gloire de Dieu. (Jean 4 :23)" 
+        }
+    ]
+}
